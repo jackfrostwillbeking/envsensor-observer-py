@@ -1,5 +1,5 @@
 {
-    "description": "Omron Data Collection Program rev1",
+    "description": "Omron Data Collection Program",
     "scripts": {
         "start": "./envsensor-observer-py/envsensor_observer.py"
     }
